@@ -1,0 +1,202 @@
+%!Adobe-FontList 1.20
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Black
+FamilyName:Noto Sans KR
+StyleName:Black
+FullName:Noto Sans KR Black
+MenuName:Noto Sans KR Black
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Black
+FullNameNative:Noto Sans KR Black
+WritingScript:Korean
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\NotoSansKR-Black.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5068176
+FileModTime:1517756400
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Black
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Bold
+FamilyName:Noto Sans KR
+StyleName:Bold
+FullName:Noto Sans KR Bold
+MenuName:Noto Sans KR
+StyleBits:2
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Bold
+FullNameNative:Noto Sans KR Bold
+WritingScript:Korean
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\NotoSansKR-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4909620
+FileModTime:1517756400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Light
+FamilyName:Noto Sans KR
+StyleName:Light
+FullName:Noto Sans KR Light
+MenuName:Noto Sans KR Light
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Light
+FullNameNative:Noto Sans KR Light
+WritingScript:Korean
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\NotoSansKR-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4713884
+FileModTime:1517756400
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Light
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Medium
+FamilyName:Noto Sans KR
+StyleName:Medium
+FullName:Noto Sans KR Medium
+MenuName:Noto Sans KR Medium
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Medium
+FullNameNative:Noto Sans KR Medium
+WritingScript:Korean
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\NotoSansKR-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4768724
+FileModTime:1517756400
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Medium
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Regular
+FamilyName:Noto Sans KR
+StyleName:Regular
+FullName:Noto Sans KR
+MenuName:Noto Sans KR
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Regular
+FullNameNative:Noto Sans KR Regular
+WritingScript:Korean
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\NotoSansKR-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4744644
+FileModTime:1517756400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansKR-Thin
+FamilyName:Noto Sans KR
+StyleName:Thin
+FullName:Noto Sans KR Thin
+MenuName:Noto Sans KR Thin
+StyleBits:0
+FamilyNameNative:Noto Sans KR
+StyleNameNative:Thin
+FullNameNative:Noto Sans KR Thin
+WritingScript:Korean
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\NotoSansKR-Thin.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4383664
+FileModTime:1517756400
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Noto Sans KR Thin
+NameArray:0,Win,16,Noto Sans KR
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Noto_Sans_KR\OFL.txt
+FileModTime:1517756400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DelaGothicOne-Regular
+FamilyName:Dela Gothic One
+StyleName:Regular
+FullName:Dela Gothic One Regular
+MenuName:Dela Gothic One
+StyleBits:0
+FamilyNameNative:Dela Gothic One
+StyleNameNative:Regular
+FullNameNative:Dela Gothic One Regular
+WritingScript:Japanese
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Dela_Gothic_One\DelaGothicOne-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5450336
+FileModTime:1607860800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Dela Gothic One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\학생방\정영훈\6.웹페이지제작\web_pf\현대로템\Font\Dela_Gothic_One\OFL.txt
+FileModTime:1607860800
+%EndFont
+
