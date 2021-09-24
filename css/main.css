@@ -158,7 +158,8 @@ h2 {font-size: 28px;text-align: center;font-family: 'notosans_kr_m';}
 
 #header #gnb {text-align: center;}
 #header #gnb>li {display: inline-block;width: 130px;}
-#header #gnb>li:hover {background: #0d2368;color: #FFF;}
+#header #gnb>li:hover {background: #000;color: #FFF;}
+/* #0d2368 */
 #header #gnb>li>a {line-height: 70px;}
 
 #main .visual_wrap .visual_slider .visual_slide {height: 0;padding-top: 5%;border: 1px solid green;}
